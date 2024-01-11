@@ -6,6 +6,10 @@ body {
   color:#c0c0c0;
 }
 
+.photoborder {
+  border: none;
+}
+
   @font-face {
     font-family: 'WhiteOleander';
     src: url('/fonts/WhiteOleander.otf') format('opentype');
