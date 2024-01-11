@@ -12,27 +12,33 @@ body {
 }
 
 img {
-  width: 200px;
-  height: 250px;
-  box-shadow: 0 0 5px .5px black;
-  border-radius: 23px;
+  width: 150px;
+  height: 200px;
+  
 }
 
 .pictures {
   display: flex;
   width: 4.7084in;
-  height: 3.7084in;
+  height: 2.7084in;
   justify-content: center;
   align-items: center;
   justify-content: space-evenly;
+}
+
+.picturebtm {
+  display: flex;
+  justify-content: center;
+  margin: 0;
 }
 
 .comment {
   display: flex;
   justify-content: center;
   margin: 0;
+  margin-top: 10px;
   font-family: WhiteOleander;
-  font-size: 55px;
+  font-size: 45px;
 }
 
 
