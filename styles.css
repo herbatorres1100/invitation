@@ -1,0 +1,105 @@
+body {
+  width: 4.7084in;
+  height: 6.7084in;
+  border: 8px solid  #89CFF0;
+  margin: 0 auto;
+  color:#c0c0c0;
+}
+
+  @font-face {
+    font-family: 'WhiteOleander';
+    src: url('/fonts/WhiteOleander.otf') format('opentype');
+}
+
+img {
+  width: 200px;
+  height: 250px;
+}
+
+.pictures {
+  display: flex;
+  width: 4.7084in;
+  height: 4.7084in;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.comment {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  font-family: WhiteOleander;
+  font-size: 100px;
+}
+
+
+h1 {
+  
+  font-size: 170px;
+  font-family: WhiteOleander;
+  color: #c0c0c0;
+  margin: 0 aut0;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding: 0;
+  text-align: center;;
+  font-weight: 200;
+  
+}
+ .rotate-text {
+   transform: rotate(-7deg);
+}
+
+.location {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px;
+  
+}
+
+.date {
+  margin: 0px;
+  padding: 7px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.join-us {
+  margin-top: 0px;
+  margin-bottom: 0;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.name {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 35px;
+  margin: 0px;
+  color: #89CFF0;
+}
+
+p {
+  display: flex;
+  justify-content: end;
+  padding: 7px;
+  color:  #89CFF0;
+ 
+}
+
+.contact-info {
+  margin: 0 10px 0px 0;
+  padding: 0;
+}
+
+.additional-info {
+  font-family: 'Pinyon Script', cursive;
+  margin: 0 7px 0px 0;
+  padding: 0;
+  font-size: 15px;
+}
+
+
+
