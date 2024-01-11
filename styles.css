@@ -7,7 +7,12 @@ body {
 }
 
 .photoborder {
-  border: none;
+  width: 4.7084in;
+  height: 6.7084in;
+  border: 8px solid  #c0c0c0;
+  margin: 0 auto;
+
+  
 }
 
   @font-face {
@@ -46,6 +51,7 @@ img {
   margin-top: 10px;
   font-family: WhiteOleander;
   font-size: 45px;
+  color: #89CFF0
   
 }
 
