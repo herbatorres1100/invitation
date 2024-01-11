@@ -19,7 +19,7 @@ img {
 .pictures {
   display: flex;
   width: 4.7084in;
-  height: 4.7084in;
+  height: 3.7084in;
   justify-content: center;
   align-items: center;
   justify-content: space-evenly;
@@ -27,10 +27,10 @@ img {
 
 .comment {
   display: flex;
-  justify-content: end;
+  justify-content: center;
   margin: 0;
   font-family: WhiteOleander;
-  font-size: 50px;
+  font-size: 55px;
 }
 
 
